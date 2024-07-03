@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "lvl_crystallize",
+    "name": "Levelled Crystallize",
+    "authors": [ "OromisElf" ],
+    "description": "Allows earning experience with and level the crystallize mana spell.",
+    "category": "rebalance",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]

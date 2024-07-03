@@ -1,0 +1,12 @@
+[
+  {
+    "id": "manatouched_crystal",
+    "type": "SPELL",
+    "copy-from": "manatouched_crystal",
+    "max_level": 25,
+    "min_damage": 4,
+    "max_damage": 40,
+    "damage_increment": 2,
+    "flags": [ "PERMANENT_ALL_LEVELS", "NO_LEGS", "CONCENTRATE", "NO_HANDS", "MUST_HAVE_CLASS_TO_LEARN" ]
+  }
+]

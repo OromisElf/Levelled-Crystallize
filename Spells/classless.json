@@ -1,0 +1,13 @@
+[
+  {
+    "id": "crystallize_mana",
+    "type": "SPELL",
+    "copy-from": "crystallize_mana",
+    "difficulty": 3,
+    "min_damage": 1,
+    "max_damage": 25,
+    "damage_increment": 0.5,
+    "max_level": 50,
+    "flags": [ "PERMANENT_ALL_LEVELS","NO_LEGS", "CONCENTRATE" ]
+  }
+]
